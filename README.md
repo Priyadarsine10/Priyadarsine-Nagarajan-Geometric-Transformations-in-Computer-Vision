@@ -1,4 +1,4 @@
-# Priyadarsine-Nagarajan-Geometric-Transformations-in-Computer-Vision
+
 Geometric Transformations in Computer Vision
 
 🔹 Transformations Covered
